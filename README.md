@@ -18,6 +18,8 @@ The goal of this pseudo-entrepreneur is to build a successful beachside business
 
 
 ### Challenges and Difficulties Encountered
+Everything is coming together! We're using Python and Pandas to develop data analysis. We're using SQL and SqlAlchemy to build databases and retreive information from them. We're using Matplotlib to create visualizations that make it easier to communicate the story that our data is telling. And we're using a front-end application (Flask) so that we can present what we've built on the back-end to a mass audience.
 
+One of the challenges, certainly, is keeping up with and soaking in all of the information. But there is nothing more satisfying than doing this kind of work. On a personal note, I am on multiple platforms (HackerRank, SoloLearn, GitHub, Kaggle, w3Schools) practicing the various languages every day. It's a huge time investment, but this is something I love. I'm implementing what the knowledge to build some really cool stuff in my current role, and I have plans for even bigger and cooler things. It's a challenge to build the knowledge base and skill set, but it's a challenge that I have fully embraced and I am passionate and excited about.
 
 ## Results
