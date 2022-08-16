@@ -17,7 +17,7 @@ The initial forray into Flask and creating a web interface for pythonic data ana
 A few interesting points of consideration for the new Surf & Scoop shop in Oahu based on this analysis: the precipitation data shows only a handful of pretty rainy days each year and temperatures seem pretty comfortable. 
 
 <table cellspacing="10">
-<tr><td width=40%><p align="center">
+<tr><td width=33%><p align="center">
   <img src="https://github.com/cb19weber/surfs_up/blob/main/analysis/annual_precip.png" />
 </p></td>
 <td><p>
@@ -26,13 +26,15 @@ In analyzing over two thousand data points collected from multiple weather stati
 
 Temperature data also indicated the vast majority of days hovering in the 70 to 80 degree area. Warm days, lots of sun, beautiful beach area all seem to give the green light to this dream of building a new business and living on the islands as convenient company perk.
 
-
 ### Analysis of Outcomes Based on the Challenge
-
+A deeper comparative analysis of temperature data for the months of June and December over a six-year stretch revealed relatively consistent environmental conditions. Mean daily temperatures in June were just under 75 degrees, while mean December temps were just over 71. The max temperatures were only 2 degrees different. The median temperatures were almost precisely the mean temperatures, indicating a pretty even distribution of weather regardless of "season". The biggest difference was found in the minimum temperatures, where the lowest June temperature in the period measured was 64, while December did have a quarter of daily temps below 69 and a minimum temperature of 56.
 
 ### Challenges and Difficulties Encountered
 Everything is coming together! We're using Python and Pandas to develop data analysis. We're using SQL and SqlAlchemy to build databases and retreive information from them. We're using Matplotlib to create visualizations that make it easier to communicate the story that our data is telling. And we're using a front-end application (Flask) so that we can present what we've built on the back-end to a mass audience.
 
 One of the challenges, certainly, is keeping up with and soaking in all of the information. But there is nothing more satisfying than doing this kind of work. On a personal note, I am on multiple platforms (HackerRank, SoloLearn, GitHub, Kaggle, w3Schools) practicing the various languages every day. It's a huge time investment, but this is something I love. I'm implementing what the knowledge to build some really cool stuff in my current role, and I have plans for even bigger and cooler things. It's a challenge to build the knowledge base and skill set, but it's a challenge that I have fully embraced and I am passionate and excited about.
 
+Flask is definitely more of a challenge, and I think we barely scratched the surface of it this week. It's a step in the right direction of being able to distribute my analysis without the end user having to dive into the coding structure. I'm looking forward to building upon my Flask knowledge as well as utilitizing other end user GUI tools.
+
 ## Results
+I've implemented some of the data analysis in my current role into Power BI dashboards. I've been able to continue practicing my Python coding utilizing HackerRank as well as a mobile app, and have built some tables and matplotlib visualizations into PBI to share with some members of my company. The feedback has been really great so far, but I can see many places that I can improve upon the product to deliver better insights.
