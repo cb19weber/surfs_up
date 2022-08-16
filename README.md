@@ -18,7 +18,7 @@ A few interesting points of consideration for the new Surf & Scoop shop in Oahu 
 
 <table cellspacing="10">
 <tr><td><p align="center">
-  <img src="https://github.com/cb19weber/surfs_up/blob/main/analysis/annual_precip.png" />
+  <img src="https://github.com/cb19weber/surfs_up/blob/main/analysis/annual_precip.png" width="150%" />
 </p></td>
 <td><p>
 
