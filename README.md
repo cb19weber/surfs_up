@@ -17,8 +17,8 @@ The initial forray into Flask and creating a web interface for pythonic data ana
 A few interesting points of consideration for the new Surf & Scoop shop in Oahu based on this analysis: the precipitation data shows only a handful of pretty rainy days each year and temperatures seem pretty comfortable. 
 
 <table cellspacing="10">
-<tr><td><p align="center">
-  <img src="https://github.com/cb19weber/surfs_up/blob/main/analysis/annual_precip.png" width="150%" />
+<tr><td width=33%><p align="center">
+  <img src="https://github.com/cb19weber/surfs_up/blob/main/analysis/annual_precip.png" />
 </p></td>
 <td><p>
 
